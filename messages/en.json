@@ -1,0 +1,13 @@
+{
+  "LoginForm": {
+    "title": "Welcome back",
+    "subtitle": "Login to your account",
+    "email": "Email",
+    "password": "Password",
+    "buttonLogin": "Login",
+    "footerLogin": "By clicking continue, you agree to our",
+    "footerTerms": "Terms of Service",
+    "and": "and",
+    "footerPrivacy": "Privacy Policy"
+  }
+}
