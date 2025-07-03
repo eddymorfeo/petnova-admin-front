@@ -3,6 +3,7 @@
     "title": "Bienvenido de nuevo",
     "subtitle": "Inicia sesión en tu cuenta",
     "email": "Correo electrónico",
+    "placeholderEmail": "m@ejemplo.com",
     "password": "Contraseña",
     "buttonLogin": "Iniciar sesión",
     "footerLogin": "Al hacer clic en continuar, aceptas nuestros",

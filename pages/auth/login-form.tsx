@@ -27,7 +27,7 @@ export async function LoginForm({
                 <Input
                   id="email"
                   type="email"
-                  placeholder="m@example.com"
+                  placeholder={t('placeholderEmail ')}
                   required
                 />
               </div>
